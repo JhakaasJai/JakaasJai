@@ -1,4 +1,4 @@
-- I’m @JakaasJai69 aka Jai or Jay or Mritunjay.
+- I’m @JakaasJai aka Jai or Jay or Mritunjay.
 
 - I'm intrested in AI and deep learning. Want to develop software solution
   which could help common flocks in Education, Farming, Cybersecurity etc.
@@ -17,6 +17,6 @@
 
 
 <!---
-JakaasJai69/JakaasJai69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JakaasJai/JakaasJai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
